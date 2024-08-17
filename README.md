@@ -1,10 +1,10 @@
 # Wie man eine Open Source Community aufbaut und lebendig hält
 
-* Standard, 35 to 45 minutes plus 10 minutes diѕcussion
-* Link zur Konferenz: [chemnitzer.linux-tage.de/2024/en/programm/beitrag/257](https://chemnitzer.linux-tage.de/2024/en/programm/beitrag/257)
-* Online Version: [bastelfreak.de/clt2024/#1](https://bastelfreak.de/clt2024/#1)
-* Git Repo: [github.com/bastelfreak/clt2024](https://github.com/bastelfreak/clt2024?tab=readme-ov-file#vox-pupuli---behind-every-successful-open-source-project-is-a-vibrant-community)
-* Recording: [media.ccc.de/v/clt24-257-wie-man-eine-open-source-community-aufbaut-und-lebendig-halt](https://media.ccc.de/v/clt24-257-wie-man-eine-open-source-community-aufbaut-und-lebendig-halt)
+* 45 minutes plus 15 minutes diѕcussion
+* Link zur Konferenz: [https://froscon.org/](https://froscon.org/)
+* Online Version: [bastelfreak.de/froscon2024/#1](https://bastelfreak.de/froscon2024/#1)
+* Git Repo: [github.com/bastelfreak/froscon2024](https://github.com/bastelfreak/froscon2024?tab=readme-ov-file#wie-man-eine-open-source-community-aufbaut-und-lebendig-h%C3%A4lt)
+* Recording: [https://media.ccc.de/v/froscon2024-3144-wie_man_eine_open_source_community_aufbaut_und_lebendig_halt](https://media.ccc.de/v/froscon2024-3144-wie_man_eine_open_source_community_aufbaut_und_lebendig_halt)
 * PDF: [Vox Pupuli - Wie man eine Open Source Community aufbaut und lebendig hält.pdf](https://github.com/bastelfreak/talks/blob/master/Vox%20Pupuli%20-%20Wie%20man%20eine%20Open%20Source%20Community%20aufbaut%20und%20lebendig%20h%C3%A4lt.pdf)
 
 ## Abstract
@@ -21,7 +21,7 @@ In diesem Vortrag geht es darum was Vox Pupuli ist, wie und warum es
 funktioniert und warum ihr mitmachen sollt! Außerdem möchten wir besprechen
 wie wir mit Contributions im großen Maßstab umgehen.
 
-## Brief Summary 2
+## Brief Summary
 
 Hier die Zusammenfassung/weitere Infos zum Vortrag:
 
