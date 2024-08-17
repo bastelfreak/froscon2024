@@ -384,7 +384,7 @@ class nginx (
     ensure => 'installed',
   }
   -> file { '/etc/nginx/nginx.conf':
-    ensure => 'file',
+    ensure  => 'file',
     content => $content,
   }
   ~> service { 'nginx':
@@ -501,7 +501,7 @@ Now a question I will try to answer for you, what is vox pupuli
 ???
 
 Some stats. A group that:
-* 150 Puppet modules in 2021. 186 *active* modules at the moment
+* 150 Puppet modules in 2021. 190 *active* modules at the moment
 * 43 Ruby Gems in 2021, 54 *active* gems at the moment
 ---
 
